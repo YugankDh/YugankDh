@@ -1,8 +1,8 @@
 # Hi there, I'm Yugank Dhanderiya 👋
 
-🌱 Learning Python and eager to code.
+🌱 Learning To code.
 
-👨‍💻 Currently working on small Python projects.
+👨‍💻 Currently working on small things and learning.
 
 🎯 Goals: Continue to improve my coding skills.
 
